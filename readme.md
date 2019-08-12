@@ -24,10 +24,10 @@ A GPlates rotation file (.rot or .grot) is a file that includes the finite rotat
 
 They look like this
 
-235 10 0 0 0 236 !A-B collision
-
-235 15 35 22 10 236 !A-B subduction initiation, closure of Ocean C 
-
-235 20 35 22 20 236 !A-B are faaaaar away 
+>235 10 0 0 0 236 !A-B collision
+>
+>235 15 35 22 10 236 !A-B subduction initiation, closure of Ocean C 
+>
+>235 20 35 22 20 236 !A-B are faaaaar away 
 
 [TUTORIAL](http://www.earthbyte.org/Resources/GPlates_tutorials/All_Tutorials/GPlates_Rotations1_Tutorial.html)
